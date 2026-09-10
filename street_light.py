@@ -1,4 +1,3 @@
-```python
 # Automatic Street Light Simulation
 
 print("=== Automatic Street Light System ===")
@@ -25,4 +24,3 @@ while True:
 
     else:
         print("Invalid choice. Please enter 1, 2, or 3.")
-```
